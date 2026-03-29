@@ -1,4 +1,4 @@
-Review: quiz_app.py vs SPEC.md
+#Review: quiz_app.py vs SPEC.md
 
 
 1. [PASS] Acceptance: App runs as a .py script without trivial import/runtime errors — Single entrypoint main() at 532:554:/Users/manyakhemka/Desktop/quiz-app/quiz_app.py; dependencies declared in requirements.txt (cryptography).
