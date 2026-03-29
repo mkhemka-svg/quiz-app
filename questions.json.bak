@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "What keyword is used to define a function in Python?",
+      "type": "multiple_choice",
+      "options": ["func", "define", "def", "function"],
+      "answer": "def",
+      "category": "Python Basics",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A list in Python is immutable.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "Data Structures",
+      "difficulty": "difficult"
+    },
+    {
+      "question": "What built-in function returns the number of items in a list?",
+      "type": "short_answer",
+      "answer": "len",
+      "category": "Python Basics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of these is not a core Python data type?",
+      "type": "multiple_choice",
+      "options": ["lists", "dictionary", "tuples", "class"],
+      "answer": "class",
+      "category": "Data Structures",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is a class in Object Oriented Programming?",
+      "type": "multiple_choice",
+      "options": ["function", "module", "code block", "blueprint for creating objects"],
+      "answer": "blueprint for creating objects",
+      "category": "Python Basics",
+      "difficulty": "difficult"
+    },
+    {
+      "question": "What does PEP 8 primarily describe?",
+      "type": "multiple_choice",
+      "options": ["package installation", "style guide for Python code", "Python evolution roadmap", "virtual environments"],
+      "answer": "style guide for Python code",
+      "category": "Python Basics",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Tuples can be used as dictionary keys if their elements are immutable.",
+      "type": "true_false",
+      "answer": "true",
+      "category": "Data Structures",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which method adds an item to the end of a list?",
+      "type": "multiple_choice",
+      "options": ["push", "append", "add", "insert_end"],
+      "answer": "append",
+      "category": "Data Structures",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What symbol creates a comment in Python?",
+      "type": "short_answer",
+      "answer": "#",
+      "category": "Python Basics",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A set preserves insertion order in Python 3.7+ like a list.",
+      "type": "true_false",
+      "answer": "true",
+      "category": "Data Structures",
+      "difficulty": "difficult"
+    },
+    {
+      "question": "What keyword handles exceptions in Python?",
+      "type": "multiple_choice",
+      "options": ["catch", "except", "error", "handle"],
+      "answer": "except",
+      "category": "Control Flow",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the pass statement do?",
+      "type": "short_answer",
+      "answer": "nothing",
+      "category": "Control Flow",
+      "difficulty": "medium"
+    }
+  ]
+}
